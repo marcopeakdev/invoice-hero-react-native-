@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Invoice Hero</string>
+    <string name="server_client_id">53743345419-25fuousnvq7dbq1cpqpqgf3ng1mgrctv.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">802353527501055</string>
+    <string name="facebook_client_token">b26f6883ca07af62ff855126273cebda</string>
+</resources>

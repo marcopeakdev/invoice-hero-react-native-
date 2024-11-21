@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203967754030",
+    "project_id": "muath-9b842",
+    "storage_bucket": "muath-9b842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203967754030:android:327c7ab7ae4690ffaf94bf",
+        "android_client_info": {
+          "package_name": "com.invoiceheromaker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203967754030-4qqmqe74ac5mlfnskkotko6oohteagiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eyMwtQcMXxuraS8sKXSkF-TnLY2M18M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203967754030-4qqmqe74ac5mlfnskkotko6oohteagiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
